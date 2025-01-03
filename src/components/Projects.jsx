@@ -1,13 +1,13 @@
 import '../styles.css';
-import ohmyfood from '../img/ohmyfood.png'
-import riding from '../img/riding.png'
-import booki from '../img/booki.png'
+import ohmyfood from '../img/ohmyfood.webp'
+import riding from '../img/riding.webp'
+import booki from '../img/booki.webp'
 import printIn from '../img/Print-in.png'
-import architecte from '../img/architecte.png'
-import kasa from '../img/kasa.png'
-import photo from '../img/photo.png'
-import argentBank from '../img/argentBank.png'
-import debug from '../img/debug.png'
+import architecte from '../img/architecte.webp'
+import kasa from '../img/kasa.webp'
+import photo from '../img/photo.webp'
+import argentBank from '../img/argentBank.webp'
+import debug from '../img/debug.webp'
 
 const Projects = () => {
     const projects = [
