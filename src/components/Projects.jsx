@@ -7,6 +7,7 @@ import architecte from '../img/architecte.png'
 import kasa from '../img/kasa.png'
 import photo from '../img/photo.png'
 import argentBank from '../img/argentBank.png'
+import debug from '../img/debug.png'
 
 const Projects = () => {
     const projects = [
@@ -18,6 +19,8 @@ const Projects = () => {
         { name: 'Kasa', description: 'Application web de location immobilière avec React', url: 'https://tdrew23.github.io/Kasa/' , gitUrl : 'https://github.com/tdrew23/Kasa.git', image: kasa },
         { name: 'Nina Carducci', description: 'Site de photographe', url: 'https://tdrew23.github.io/Nina-Carducci/' , gitUrl : 'https://github.com/tdrew23/Nina-Carducci.git', image: photo },
         { name: 'ArgentBank', description: 'Application bancaire  React.', url: 'https://tdrew23.github.io/ArgentBank-Frontend/' , gitUrl : 'https://github.com/tdrew23/ArgentBank.git', image: argentBank },
+        { name: '724events', description: "Site d'une agence d'événementiel", url: ' https://tdrew23.github.io/724events-bis/' , gitUrl : 'https://github.com/tdrew23/724events-bis.git', image: debug },
+
 
 
     ];
